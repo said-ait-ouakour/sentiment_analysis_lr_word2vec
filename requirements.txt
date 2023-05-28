@@ -1,0 +1,7 @@
+gensim
+contractions
+joblib
+sklearn
+numpy
+pandas
+nltk

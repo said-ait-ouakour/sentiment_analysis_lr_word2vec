@@ -1,4 +1,4 @@
-# Sentiment Analysis Analysis
+# Sentiment Analysis
 
 This is a command-line sentiment analysis app built with logistic regression and word embedding using Word2Vec.
 
